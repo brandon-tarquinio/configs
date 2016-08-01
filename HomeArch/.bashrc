@@ -11,6 +11,7 @@ export TERM=screen-256color
 export TERMINAL=termite
 export VISUAL=vim
 export EDITOR=vim
+export BROWSER=firefox
 
 archey3
 
